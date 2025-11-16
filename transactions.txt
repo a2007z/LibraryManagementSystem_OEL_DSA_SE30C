@@ -1,0 +1,17 @@
+1,ISBN001,Borrowed,2025-01-05,John Smith,555-1001
+2,ISBN004,Borrowed,2025-01-06,Emily Johnson,555-1002
+3,ISBN010,Borrowed,2025-01-10,Michael Brown,555-1003
+4,ISBN003,Returned,2025-01-11,Sarah Davis,555-1004
+5,ISBN006,Borrowed,2025-01-12,David Wilson,555-1005
+6,ISBN002,Returned,2025-01-13,Linda Miller,555-1006
+7,ISBN011,Borrowed,2025-01-14,James Taylor,555-1007
+8,ISBN009,Borrowed,2025-01-15,Patricia Anderson,555-1008
+9,ISBN017,Returned,2025-01-16,Robert Thomas,555-1009
+10,ISBN005,Borrowed,2025-01-16,Jennifer Jackson,555-1010
+11,ISBN015,Borrowed,2025-01-17,Charles White,555-1011
+12,ISBN012,Returned,2025-01-18,Jessica Harris,555-1012
+13,ISBN020,Borrowed,2025-01-19,Thomas Martin,555-1013
+14,ISBN007,Borrowed,2025-01-20,Amy Thompson,555-1014
+15,ISBN013,Returned,2025-01-20,George Garcia,555-1015
+16,ISBN019,Borrowed,2025-01-21,Laura Martinez,555-1016
+17,ISBN025,Borrowed,2025-01-22,Daniel Robinson,555-1017

@@ -1,0 +1,40 @@
+Clean,Robert Martin,ISBN001
+Pragmatic Prog,Andrew Hunt,ISBN002
+Design Ptns,Erich Gamma,ISBN003
+C++ Primer,Stanley Lippman,ISBN004
+Intro Algorithms,Thomas Cormen,ISBN005
+TAOCP,Donald Knuth,ISBN006
+OS Concepts,Abraham Silberschatz,ISBN007
+Comp Networks,Andrew Tanenbaum,ISBN008
+DB Concepts,Henry Korth,ISBN009
+AI,Stuart Russell,ISBN010
+ML,Tom Mitchell,ISBN011
+Deep Learn,Goodfellow,ISBN012
+Comp Arch,John Hennessy,ISBN013
+Compilers,Alfred Aho,ISBN014
+Net Basics,Cisco Press,ISBN015
+Java Prog,Herbert Schildt,ISBN016
+Python Crash,Eric Matthes,ISBN017
+SQL Learn,Alan Beaulieu,ISBN018
+HTML & CSS,Jon Duckett,ISBN019
+JS Guide,David Flanagan,ISBN020
+Linux Basics,Neil Smith,ISBN021
+Cybersecurity,Charles Brooks,ISBN022
+Cloud Comp,Thomas Erl,ISBN023
+Agile Dev,Robert Martin,ISBN024
+Scrum Guide,Schwaber Sutherland,ISBN025
+UX Basics,Joel Marsh,ISBN026
+HCI,Alan Dix,ISBN027
+Dig Logic,Marcovitz,ISBN028
+Comp Graphics,Hearn Baker,ISBN029
+Crypto,William Stallings,ISBN030
+Microproc,Ramesh Gaonkar,ISBN031
+Par Prog,Peter Sessa,ISBN032
+Data Mining,Jiawei Han,ISBN033
+Soft Testing,Ron Patton,ISBN034
+Sys Design,Alex Xu,ISBN035
+Quantum Comp,Jack Hidary,ISBN036
+Ethical Hack,Jon Erickson,ISBN037
+OOP Basics,Bjarne Stroustrup,ISBN038
+Data Structs,Mark Weiss,ISBN039
+Algo Concepts,Robert Sedgewick,ISBN040
